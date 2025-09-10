@@ -23,5 +23,3 @@ This project helped me learn:
 - 💻 Lightweight — no extra dependencies  
 
 ---
-
-## 📂 Project Structure
